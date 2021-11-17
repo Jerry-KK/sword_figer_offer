@@ -4,6 +4,11 @@ package chapter3_string;
  * @author lethe
  * @date 2021/11/16 23:57
  */
+
+/**
+ * 题目：给定一个字符串，请问该字符串中有多少个回文连续子字符串？
+ * 例如，字符串"abc"有3个回文子字符串，分别为"a","b"和"c"；而字符串"aaa"有6个回文子字符串，分别是"a"、"a"、"a"、"aa"、"aa"、"aaa"
+ */
 public class Questions_20 {
 
     public static void main(String[] args) {
