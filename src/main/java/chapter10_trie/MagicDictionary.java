@@ -4,6 +4,12 @@ package chapter10_trie;
  * @author lethe
  * @date 2021/11/25 21:07
  */
+
+/**
+ * 题目：请实现有如下两个操作的神奇字典。
+ * 1.函数buildDict，输入单词数组用来创建一个字典。
+ * 2.函数search.输入一个单词，判断能够修改该单词中的一个字符，使修改之后的单词是字典中的一个单词。
+ */
 public class MagicDictionary {
 
     static class TrieNode {
